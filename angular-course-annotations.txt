@@ -1,0 +1,29 @@
+1 - GETTING STARTED
+{
+    - angular: javascript framework para criar single page applications SPA
+
+    - cli: command line applications
+
+    - ng: angular
+
+    instalação:
+    ir no link cli.angular.io
+    npm install -g @angular/cli@latest
+    ng new my-first-app
+    entrar na pasta e rodar
+    ng serve
+
+    na package.json tem todas as dependencias
+}
+
+2 - THE BASICS
+{
+    folder name = component name
+    component ~~ class
+}
+aula 17
+
+
+
+
+
